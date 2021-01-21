@@ -1,0 +1,4 @@
+[TEST SCRIPT 참고예제]
+https://github.com/xinxi1990/nGrinderScript/tree/master/src/main
+
+https://github.com/lastvirgo266/Scripts/blob/master/nGrinder/API_Read_Post.groovy
