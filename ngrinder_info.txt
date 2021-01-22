@@ -2,3 +2,5 @@
 https://github.com/xinxi1990/nGrinderScript/tree/master/src/main
 
 https://github.com/lastvirgo266/Scripts/blob/master/nGrinder/API_Read_Post.groovy
+
+Beforethread속에 헤더 포함해서 모두 넣어서 실행시키기 

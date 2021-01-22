@@ -22,9 +22,6 @@ Mac MySQL 데이터베이스 설치
 -MySQL 데이터베이스 mac 설치<br/>
 **명령어 : brew install mysql**
 
-<img width="595" alt="스크린샷 2021-01-19 오후 10 41 46" src="https://user-images.githubusercontent.com/77574936/105042507-ae957200-5aa7-11eb-97ca-cf329b8065a2.png">
-
-<img width="1230" alt="스크린샷 2021-01-19 오후 10 42 10" src="https://user-images.githubusercontent.com/77574936/105042557-be14bb00-5aa7-11eb-8b5c-cb3de0cd3239.png">
 
 ### Mac MySQLDB 실행하기
 mysql 실행 명령어 :  mysql.server start -> Starting MySQL. SUCCESS! 옆에 메시지가 나오면 성공적으로 실행됨
@@ -35,3 +32,7 @@ mysql 실행 명령어 :  mysql.server start -> Starting MySQL. SUCCESS! 옆에 
 명령어 : brew services restart mysql
 ### 데몬으로 실행되고 있는 목록이 궁금한 경우 확인하는 명령어
 명령어 : brew services list
+
+
+
+
