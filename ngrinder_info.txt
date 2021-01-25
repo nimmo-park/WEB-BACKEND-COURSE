@@ -5,3 +5,6 @@ https://github.com/lastvirgo266/Scripts/blob/master/nGrinder/API_Read_Post.groov
 
 Beforethread속에 헤더 포함해서 모두 넣어서 실행시키기 
 -헤더부분에 모든 것을 넣어서 실행시키기로 수정
+
+nGrinder Unknown host 에러
+참고주소 : http://ngrinder.642.n7.nabble.com/nGrinder-Terget-run-monitor-sh-td1864.html
