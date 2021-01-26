@@ -8,3 +8,6 @@ Beforethread속에 헤더 포함해서 모두 넣어서 실행시키기
 
 nGrinder Unknown host 에러
 참고주소 : http://ngrinder.642.n7.nabble.com/nGrinder-Terget-run-monitor-sh-td1864.html
+
+nGrinder 참고주소
+https://brownbears.tistory.com/27?category=168280
