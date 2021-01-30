@@ -18,3 +18,5 @@ https://blog.advenoh.pe.kr/devops/nGrinder-사용법에-대해서-알아보자/
 
 nGrinder TEST
 https://heedipro.tistory.com/279
+
+ngrinder dns 설정방법 찾아보기:
