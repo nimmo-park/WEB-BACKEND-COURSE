@@ -13,6 +13,17 @@ public class Hello {
 		for(int i = 0 ; i < list.length; i++) {
 			System.out.println(list[i]);
 		}
+		
+		Object[] nameList = {"test","test2"};
+		
+		
+		
+		System.out.println(nameList[0]);
+		System.out.println(nameList[1]);
+		
+		for(int j = 0 ;j<nameList.length;j++) {
+			System.out.println(nameList[j]);
+		}
 	}
 
 }
