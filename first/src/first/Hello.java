@@ -24,6 +24,8 @@ public class Hello {
 		for(int j = 0 ;j<nameList.length;j++) {
 			System.out.println(nameList[j]);
 		}
+		
+		System.out.println(nameList[0]);
 	}
 
 }
